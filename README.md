@@ -1,4 +1,6 @@
 # parsi.io
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmohamadassadeq%2Fparsi.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmohamadassadeq%2Fparsi.io?ref=badge_shield)
+
 ## Installation
 Install parsi_io as a pip package with the following command to use the library
 
@@ -404,3 +406,7 @@ Natural Language Processing and Digital Humanities Laboratory
 
 PI: Asgari
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmohamadassadeq%2Fparsi.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmohamadassadeq%2Fparsi.io?ref=badge_large)
